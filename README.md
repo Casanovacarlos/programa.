@@ -1,2 +1,1 @@
-# programa.
-Programa
+# programa para clases de programacion.
